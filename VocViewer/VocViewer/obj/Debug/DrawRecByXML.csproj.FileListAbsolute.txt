@@ -1,0 +1,9 @@
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\bin\Debug\DrawRecByXML.exe.config
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\bin\Debug\DrawRecByXML.exe
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\bin\Debug\DrawRecByXML.pdb
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\obj\Debug\DrawRecByXML.csprojResolveAssemblyReference.cache
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\obj\Debug\DrawRecByXML.Properties.Resources.resources
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\obj\Debug\DrawRecByXML.csproj.GenerateResource.Cache
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\obj\Debug\DrawRecByXML.exe
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\obj\Debug\DrawRecByXML.pdb
+C:\Users\husyimin\Desktop\DrawRecByXML\DrawRecByXML\DrawRecByXML\obj\Debug\DrawRecByXML.fmMain.resources
