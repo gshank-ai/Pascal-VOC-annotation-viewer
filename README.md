@@ -50,4 +50,14 @@
     <img src="docs/08.png">
 </div>
 
+<h6>9.中央下拉選單選擇類型後，按「上一張」、「下一張」可過瀘切換該類型照片</h6>
+<div align="left">
+    <img src="docs/09.png">
+</div>
+
 <br>
+
+# TODO
+<h2>1.AI驗証引擎加入</h2>
+<h2>2.Coco viewer</h2>
+<h2>3.voc轉coco格式</h2>
